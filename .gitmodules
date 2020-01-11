@@ -1,0 +1,3 @@
+[submodule "libjavm"]
+	path = libjavm
+	url = https://github.com/XorTroll/libjavm

@@ -1,0 +1,12 @@
+build/
+target/
+.vscode/
+.settings/
+.classpath
+.project
+*.jar
+*.nro
+*.nso
+*.pfs0
+*.nacp
+*.elf
