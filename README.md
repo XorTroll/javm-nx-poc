@@ -1,6 +1,8 @@
 # javm-nx-poc
 
-This is a WIP Java ecosystem PoC for Nintendo Switch homebrew using libjavm VM library.
+This is a Java ecosystem PoC for Nintendo Switch homebrew using libjavm VM library.
+
+## **IMPORTANT!** this project is no longer continued.
 
 It is a very basic example of how an ecosystem to run Java on Nintendo Switch (via homebrew) would work.
 
